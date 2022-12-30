@@ -1,0 +1,9 @@
+                 <IceShell Version 1.17.3>
+______________________________________________________________________
+
+> -- Interactive Commands has been added.
+>
+> -- Commands 'read', 'copy', 'title' has been added.
+>
+> -- Internal bug fixes in the Terminal Processor [Ice-2]
+______________________________________________________________________
